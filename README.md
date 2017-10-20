@@ -6,7 +6,7 @@ This was originally a [fork](https://github.com/halgatewood/file-directory-list)
 
 In this version, I have changed/added a couple new little features like pure CSS icons instead of using an image in base64/sprite format. I also changed the way directories are listed so you can visibly see folders more so over files now. The icons I have used were created by me using nothing but CSS and Font Awesome. If you like the icons I used in this project, you can find the code I wrote to create them at this [CodePen Project Page](https://codepen.io/demondevin/pen/RLdWRV).
 
-To see a working demo of my version of this script, you can visit [this page](https://c1935.paas2.tx.modxcloud.com/dirListing/dirListing.php).
+To see a working demo of my version of this script, you can visit [this page](https://c1935.paas2.tx.modxcloud.com/dirListing).
 
 ## ToDo
 
