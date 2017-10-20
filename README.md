@@ -6,9 +6,12 @@ This was originally a [fork](https://github.com/halgatewood/file-directory-list)
 
 In this version, I have changed/added a couple new little features like pure CSS icons instead of using an image in base64/sprite format. I also changed the way directories are listed so you can visibly see folders more so over files now. The icons I have used were created by me using nothing but CSS and Font Awesome. If you like the icons I used in this project, you can find the code I wrote to create them at this [CodePen Project Page](https://codepen.io/demondevin/pen/RLdWRV).
 
+To see a working demo of my version of this script, you can visit [this page](https://c1935.paas2.tx.modxcloud.com/dirListing/dirListing.php).
+
 ## ToDo
 
 - I'll be changing the icon for directories to support the folders you see in this [CodePen Page](https://codepen.io/demondevin/pen/RLdWRV) as well.
+- I'll be adding support for various other filetypes (**_i.e._** `.pdf`, `.psd`, `.docx`, `.swf`, etc.)
 - I'm thinking about adding support for maybe editing text files. _Maybe_.
 - I might also add support for viewing images with a lightweight, css-only lightbox. _Maybe_.
 - Etc. and so on may also come depending on my interest and availability. 
